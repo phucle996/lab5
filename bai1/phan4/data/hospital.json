@@ -1,0 +1,30 @@
+[
+  {
+    "ID": "MR01",
+    "Doctor": {
+      "ID": "D01",
+      "Name": "Dr. Nam",
+      "Gender": "Male",
+      "Address": "",
+      "Phone": "",
+      "Specialization": "Cardiology"
+    },
+    "Patient": {
+      "ID": "P01",
+      "Name": "Nguyen Van A",
+      "Gender": "Male",
+      "Address": "",
+      "Phone": "",
+      "InsuranceNo": "INS12345"
+    },
+    "Diagnosis": "Cảm cúm",
+    "Prescription": {
+      "ID": "RX01",
+      "Medicine": [
+        "Paracetamol",
+        "Vitamin C"
+      ],
+      "Instructions": "Uống 2 lần/ngày sau ăn"
+    }
+  }
+]
